@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sunkusowmyasree/sunkusowmyasree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there👋, my name is Sunku Sowmya Sree & I'm an Software Engineer! 👩🏻‍💻 
+
+### 🔭 I’m currently working on ☝🏻 
+  * Building ETL Pipielines
+  * Create frameworks for effective Integration Testing:
+
+### 🌱 In my free time I love 🎨
+  * Playing piano    
+  
+### 🤔  I'm currently thinking about 💡
+  * How to keep growing as an effective engineer in Python and grow as a Data Engineer
+
+### 📫 How to reach me 💬 
+  * LinkedIn: https://www.linkedin.com/in/sunku96/
+  * Medium: https://sunkusowmyasree.medium.com/
