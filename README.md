@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there👋, my name is Sunku Sowmya Sree & I'm an Software Engineer! 👩🏻‍💻 
+# Hi there👋, my name is Sowmya Sree & I'm an Software Engineer! 👩🏻‍💻 
 
 ### 🔭 I’m currently working on ☝🏻 
   * Building ETL Pipielines
