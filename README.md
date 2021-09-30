@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   * How to keep growing as an effective engineer in Python and grow as a Data Engineer
 
 ### 📫 How to reach me 💬 
-  * LinkedIn: https://www.linkedin.com/in/sunku96/
-  * Medium: https://sunkusowmyasree.medium.com/
+  * [LinkedIn](https://www.linkedin.com/in/sunku96/)
+  * [Medium](https://sunkusowmyasree.medium.com/)
