@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there👋, my name is Sowmya Sree & I'm an Software Engineer! 👩🏻‍💻 
+# Hi there👋, My name is Sowmya Sree & I'm an Data Engineer! 👩🏻‍💻 
 
 ### 🔭 I’m currently working on ☝🏻 
-  * Building ETL Pipielines
-  * Create frameworks for effective Integration Testing:
+  * Building ETL Data Pipielines
+  * Explore new tools and technologies in Data Engineering Space
 
 ### 🌱 In my free time I love 🎨
   * Playing piano    
